@@ -1,0 +1,21 @@
+.SharedTime {
+  text-align: center;
+}
+
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+th {
+  text-align: left;
+}
+
+.timeslot {
+  display: inline-block;
+  border: 1px solid black;
+}
+
+.SharedTime {
+  width: 100%;
+}
